@@ -56,3 +56,6 @@ for key, vale in keys:
     pass
 
 
+# graph
+
+g = [[0 for _ in range(V)] for _ in range(V)]
