@@ -30,7 +30,22 @@
 
 4. Math
 
-* [Fast Power]()
+* [Fast Power](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Math/fastPower.py)
 
-* [gcb]()
+* [gcb](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Math/gcd.py)
+
+* [Prime](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Math/Prime.py)
+
+5. String
+
+* [LCS]()
+
+
+
+
+
+
+
+
+
 
