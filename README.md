@@ -28,4 +28,9 @@
 
 * [Linear Search](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/linear_search.py)
 
+4. Math
+
+* [Fast Power]()
+
+* [gcb]()
 
