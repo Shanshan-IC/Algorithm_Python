@@ -40,6 +40,19 @@
 
 * [LCS]()
 
+* [Reverse Word]()
+
+* [Rotate Str]()
+
+6. Array[Int]
+
+* [Subarray_sum]()
+
+* [Reverse Array]()
+
+* [Product Exclude Itself]()
+
+
 
 
 
