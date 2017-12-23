@@ -3,10 +3,13 @@ a = [1, 2, 3, 4]
 b = list(a)
 
 # create a list with same value
-
 same = [ 0 for i in xrange(5 + 1)]
+
 # sort a list
 a.sort()
+
+#remove duplicate
+a = list(set(a))
 
 x = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
 # sort a dict by key
