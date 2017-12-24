@@ -4,7 +4,7 @@
 
 * [Data Structure in Python](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/BasicAlgoAndDS/dataStructure.py)
 
-2. Search Algorithm
+2. Sort Algorithm
 
 * [Bubble Sort](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/sort/bubble_sort.py)
 
@@ -28,6 +28,14 @@
 
 * [Linear Search](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/linear_search.py)
 
+* [Search 2D Matrix]()
+
+* [Search 2D Matrix II]()
+
+* [Find Peak Position]()
+
+* [Sqrt]()
+
 4. Math
 
 * [Fast Power](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Math/fastPower.py)
@@ -38,21 +46,37 @@
 
 5. String
 
-* [LCS]()
+* [LCS](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/String/LCS.py)
 
-* [Reverse Word]()
+* [Reverse Word](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/String/reverseWord.py)
 
-* [Rotate Str]()
+* [Rotate Str](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/String/rotateStr.py)
 
 6. Array[Int]
 
-* [Subarray_sum]()
+* [2 Sum](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/2sum.py)
 
-* [Reverse Array]()
+* [3 Sum](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/3sum.py)
 
-* [Product Exclude Itself]()
+* [3 Sum Closet](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/3sumcloset.py)
 
+* [First Missing Integer](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/first_missing_int.py)
 
+* [Merge Two Sorted Array](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/merge_sort_array.py)
+
+* [Merge Two Sorted Array II](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/merge_sort_array_ii.py)
+
+* [Product Exclude Itself](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/productExcluedeSelf.py)
+
+* [Remove Duplicate From Sorted Array](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/remove_duplicate.py)
+
+* [Remove Duplicate From Sorted Array II](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/remove_duplicate_ii.py)
+
+* [Reverse Array](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/reverseArray.py)
+
+* [Subarray_sum](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/Array/subarray_sum.py)
+
+7. Bit
 
 
 
