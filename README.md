@@ -28,13 +28,13 @@
 
 * [Linear Search](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/linear_search.py)
 
-* [Search 2D Matrix]()
+* [Search 2D Matrix](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/search_2D_Matrix.py)
 
-* [Search 2D Matrix II]()
+* [Search 2D Matrix II](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/search_2D_Matrix_II.py)
 
-* [Find Peak Position]()
+* [Find Peak Position](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/find_peak_pos.py)
 
-* [Sqrt]()
+* [Sqrt](https://github.com/Shanshan-IC/Algorithm_Python/blob/master/search/sqrt.py)
 
 4. Math
 

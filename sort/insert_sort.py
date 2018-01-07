@@ -13,11 +13,3 @@ def insert_sort(l):
                 j = j-1
             l[j] = temp
     return l
-
-
-def main():
-    l = [2, 3, 4, 1, 7, 3, 8, 1100, 282828, 1, 20, 0]
-    li = insert_sort(l)
-    print li
-
-main()
